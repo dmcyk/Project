@@ -1,8 +1,3 @@
----
-layout: index
-permalink: /
----
-
 # Project
 
 rep

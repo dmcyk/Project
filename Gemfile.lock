@@ -1,6 +1,6 @@
 GIT
-  remote: https://github.com/dmcyk/Site.git
-  revision: 61e0d88044a16b04f9b7b97fb190285370a5e36d
+  remote: https://github.com/dmcyk/af-jekyll.git
+  revision: c65f45837f1503dee6667959f9369c7ec16f1038
   specs:
     af-jekyll (0.1.0)
       github-pages (>= 167)

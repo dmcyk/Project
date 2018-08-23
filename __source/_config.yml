@@ -1,5 +1,4 @@
 theme: af-generic
-# remote-theme: appfoundry/generic-framework-theme
 
 plugins:
   - jekyll-data

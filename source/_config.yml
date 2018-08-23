@@ -1,8 +1,8 @@
 theme: af-generic
+# remote-theme: appfoundry/generic-framework-theme
 
 plugins:
   - jekyll-data
-  - github-pages
 
 title: "Direkt"
 description: "iOS Navigation library written in Swift"

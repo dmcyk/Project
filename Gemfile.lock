@@ -1,8 +1,8 @@
 GIT
-  remote: https://github.com/dmcyk/af-jekyll.git
-  revision: ab1e77f89d3143438a9b62cad1934f265da3a7c5
+  remote: https://github.com/appfoundry/generic-framework-theme.git
+  revision: 5ce75d53baf17a69b144062ed3dc8287f678eca3
   specs:
-    af-jekyll (0.1.0)
+    af-generic (0.1.0)
       github-pages (>= 167)
 
 GEM
@@ -251,7 +251,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  af-jekyll!
+  af-generic!
   jekyll-data
 
 BUNDLED WITH

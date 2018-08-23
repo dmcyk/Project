@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/appfoundry/generic-framework-theme.git
-  revision: 5ce75d53baf17a69b144062ed3dc8287f678eca3
+  revision: 67124e6808d1d30bdace4e6ecf5e947a5d36e574
   specs:
     af-generic (0.1.0)
       github-pages (>= 167)
@@ -252,6 +252,7 @@ PLATFORMS
 
 DEPENDENCIES
   af-generic!
+  github-pages
   jekyll-data
 
 BUNDLED WITH

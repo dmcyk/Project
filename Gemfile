@@ -5,4 +5,5 @@ group :jekyll_plugins do
 end
 
 gem "af-generic", :git => 'https://github.com/appfoundry/generic-framework-theme.git'
+gem 'github-pages', group: :jekyll_plugins
 

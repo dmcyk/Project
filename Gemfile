@@ -1,4 +1,8 @@
 source "https://rubygems.org"
 
-gem "af-jekyll", :git => 'https://github.com/dmcyk/af-jekyll.git'
-gem 'github-pages', group: :jekyll_plugins
+group :jekyll_plugins do
+  gem "jekyll-data"
+end
+
+gem "af-generic", :git => 'https://github.com/appfoundry/generic-framework-theme.git'
+

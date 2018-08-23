@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/dmcyk/af-jekyll.git
-  revision: c65f45837f1503dee6667959f9369c7ec16f1038
+  revision: ab1e77f89d3143438a9b62cad1934f265da3a7c5
   specs:
     af-jekyll (0.1.0)
       github-pages (>= 167)
@@ -119,6 +119,8 @@ GEM
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1)
       rouge (~> 2)
+    jekyll-data (1.0.0)
+      jekyll (~> 3.3)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.10.0)
@@ -250,7 +252,7 @@ PLATFORMS
 
 DEPENDENCIES
   af-jekyll!
-  github-pages
+  jekyll-data
 
 BUNDLED WITH
    1.16.4
